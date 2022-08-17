@@ -6,7 +6,7 @@
 
     <modules>
         <module>springBoot-redis-testDemo</module>
-        <module>SpringBoot-Redis-VerificationCode</module>
+        <module>SpringBoot-RedisDemo</module>
     </modules>
 
     <parent>

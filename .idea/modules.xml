@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-RedisDemo/SpringBoot-RedisDemo.iml" filepath="$PROJECT_DIR$/SpringBoot-RedisDemo/SpringBoot-RedisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot-redis-testDemo/springBoot-redis-testDemo.iml" filepath="$PROJECT_DIR$/springBoot-redis-testDemo/springBoot-redis-testDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis.iml" />
+    </modules>
+  </component>
+</project>

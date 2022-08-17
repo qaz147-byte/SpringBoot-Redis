@@ -1,0 +1,3 @@
+com\cc\testredisdemo\controller\RedisTestController.class
+com\cc\testredisdemo\config\RedisConfig.class
+com\cc\testredisdemo\TestRedisApplication.class
